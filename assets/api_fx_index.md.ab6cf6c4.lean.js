@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.3f6d5495.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/fx/index.md","lastUpdated":1670095480000}'),n={name:"api/fx/index.md"};function r(o,s,c,d,i,p){return a(),t("div")}const m=e(n,[["render",r]]);export{f as __pageData,m as default};

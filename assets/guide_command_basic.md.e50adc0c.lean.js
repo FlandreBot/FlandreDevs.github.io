@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.502e5375.js";const u=JSON.parse('{"title":"认识指令","description":"","frontmatter":{},"headers":[],"relativePath":"guide/command/basic.md","lastUpdated":1677953005000}'),p={name:"guide/command/basic.md"},o=l("",5),e=[o];function t(c,r,E,y,i,d){return a(),n("div",null,e)}const m=s(p,[["render",t]]);export{u as __pageData,m as default};

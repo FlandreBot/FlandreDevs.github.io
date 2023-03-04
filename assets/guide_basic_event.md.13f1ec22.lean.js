@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.502e5375.js";const F=JSON.parse('{"title":"事件 (Event)","description":"","frontmatter":{},"headers":[],"relativePath":"guide/basic/event.md","lastUpdated":1677953005000}'),p={name:"guide/basic/event.md"},o=l("",6),e=[o];function t(c,r,E,y,i,d){return n(),a("div",null,e)}const g=s(p,[["render",t]]);export{F as __pageData,g as default};

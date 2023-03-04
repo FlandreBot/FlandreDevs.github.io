@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.502e5375.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ecosystem/adapters/konata.md","lastUpdated":1677953005000}'),s={name:"ecosystem/adapters/konata.md"};function o(r,n,c,p,d,_){return a(),e("div")}const f=t(s,[["render",o]]);export{i as __pageData,f as default};
